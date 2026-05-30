@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # π RuView
 
 <p align="center">
@@ -589,3 +590,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 **WiFi DensePose** — Privacy-preserving human pose estimation through WiFi signals.
+=======
+# SigTrack
+>>>>>>> 6e0f0264c19ec17a880707c38d4164c338c0d2f0
